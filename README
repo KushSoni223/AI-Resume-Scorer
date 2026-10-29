@@ -1,0 +1,11 @@
+Smart Resume Screener: Basic Idea
+Basic Idea
+
+The app takes two inputs: a resume (PDF/text) and a job description. It then:
+
+Reads and cleans the text from both
+Extracts key information (skills, education, experience)
+Measures how closely the resume matches the job using NLP (TF-IDF or embeddings + cosine similarity)
+Outputs a match score (%), matched skills, and missing skills
+
+Think of it as a mini version of the ATS (Applicant Tracking System) that companies use.

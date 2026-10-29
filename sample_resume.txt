@@ -1,0 +1,12 @@
+Rahul Sharma
+Python Developer
+
+Skills: Python, SQL, Pandas, NumPy, scikit-learn, Git, Flask
+
+Experience:
+- Built a house price prediction model using scikit-learn and Pandas.
+- Developed REST APIs with Flask and connected them to a MySQL database.
+- Cleaned and analyzed datasets with Python for a college research project.
+
+Education:
+B.Tech in Computer Engineering

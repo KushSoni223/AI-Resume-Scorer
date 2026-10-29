@@ -1,0 +1,10 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer with strong Python skills.
+
+Requirements:
+- Experience with Python, Pandas, NumPy and scikit-learn
+- Knowledge of machine learning models and NLP
+- Experience with TensorFlow or PyTorch
+- Familiarity with SQL databases and Git
+- Ability to build and deploy APIs using Flask or FastAPI
